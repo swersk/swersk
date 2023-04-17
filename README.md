@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Lauren.
+A ful stack engineer. 
 <!--
 **swersk/swersk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
