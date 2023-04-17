@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lauren! 
-***
-### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼e
+
+📖 𝙰𝚋𝚘𝚞𝚝 𝙼e
 I'm a New-York based full stack software engineer. 
 
 I'm passionate about building products and experiences that help people grow through education, mindfulness, and music. 
@@ -8,6 +8,7 @@ I'm passionate about building products and experiences that help people grow thr
 As a bilingual citizen EU/US and former educator, I build products that celebrate and reflect the beautiful diversity our world offers. 
 
 ---
+
 ### 🖥️ Languages & Technologies
 * JavaScript
 * React
@@ -16,6 +17,7 @@ As a bilingual citizen EU/US and former educator, I build products that celebrat
 * Node.js
 
 ---
+
 ### 🏃‍♀️ What I'm up to
 🔭 I'm currently working on...
 * Plugin for my Etsy shop
