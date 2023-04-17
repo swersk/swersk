@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Lauren.
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+--- 
 I'm a k-12 educator, instructional designer, and full stack software engineer. 
 
 I'm passionate about building products and experiences that help people grow through education, mindfulness, and music. 
@@ -8,29 +9,29 @@ I'm passionate about building products and experiences that help people grow thr
 As a bilingual citizen EU/US, I value diversity, equity, and inclusion. I build products that celebrate and reflect the beautiful diversity our world offers. 
 
 ### 🖥️ Languages & Technologies
+---
+* JavaScript
+* React
+* Git
+* CSS, HTML
+* Node.js
 
-*JavaScript
-*React
-*Git
-*CSS, HTML
-*Node.js
-
-###👩🏼‍💻 Projects
+### 👩🏼‍💻 Projects
 <!-- Link to Github --> 
 
-###🏃‍♀️ What I'm up to
+### 🏃‍♀️ What I'm up to
 
 🔭 I'm currently working on...
-*Plugin for my Etsy shop
+* Plugin for my Etsy shop
 
 🌱 I'm currently learning...
-*React
+* React
 
 🧘🏼‍♀️ When I'm not coding I am...
-*Doing yoga
-*Going to music shows
-*Playing with my nieces
-*Visiting friends and family in Spain and Italy
+* Doing yoga
+* Going to music shows
+* Playing with my nieces
+* Visiting friends and family in Spain and Italy
  
 
 <!--
