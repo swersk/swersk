@@ -1,12 +1,12 @@
-### Hi there 👋 I'm Lauren.
+### Hi there 👋 I'm Lauren! 
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
---- 
-I'm a k-12 educator, instructional designer, and full stack software engineer. 
+___
+I'm a New-York based full stack software engineer. 
 
 I'm passionate about building products and experiences that help people grow through education, mindfulness, and music. 
 
-As a bilingual citizen EU/US, I value diversity, equity, and inclusion. I build products that celebrate and reflect the beautiful diversity our world offers. 
+As a bilingual citizen EU/US and former educator, I build products that celebrate and reflect the beautiful diversity our world offers. 
 
 ### 🖥️ Languages & Technologies
 ---
