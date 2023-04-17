@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Lauren! 
 
-📖 𝙰𝚋𝚘𝚞𝚝 𝙼e
-
 I'm a New-York based full stack software engineer. 
 
 I'm passionate about building products and experiences that help people grow through education, mindfulness, and music. 
