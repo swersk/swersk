@@ -6,10 +6,9 @@ I'm a New-York based full stack software engineer. I'm passionate about building
 
 ### 🖥️ Languages & Technologies
 * JavaScript
-* React
 * Git
 * CSS, HTML
-* Node.js
+* jQuery
 
 
  
