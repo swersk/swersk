@@ -1,10 +1,6 @@
 ### Hi there 👋 I'm Lauren! 
 
-I'm a New-York based full stack software engineer. 
-
-I'm passionate about building products and experiences that help people grow through education, mindfulness, and music. 
-
-As a bilingual citizen EU/US and former educator, I build products that celebrate and reflect the beautiful diversity our world offers. 
+I'm a New-York based full stack software engineer. I'm passionate about building products and experiences that help people grow through education, mindfulness, and music. As a bilingual citizen EU/US and former TESOL educator, I build products that celebrate and reflect the beautiful diversity our world offers. 
 
 ---
 
